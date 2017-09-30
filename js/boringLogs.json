@@ -1,0 +1,209 @@
+[
+	{
+		"uniqueId": 1,
+		"id": "14333",
+		"elevation": 819.48,
+		"latitude": 0.001,
+		"longitude": 0.001,
+		"soilTypes": [
+			{
+				"depth": 0,
+				"bottom": 6.5,
+				"description": "Stiff to Very Stiff, Brown Moist SILTY CLAY LOAM",
+				"silt": true,
+				"clay": true,
+				"loam": true,
+				"sand": false
+			}
+		]
+	},
+	{
+		"uniqueId": 2,
+		"id": "14498",
+		"elevation": 795.49,
+		"latitude": 0.001,
+		"longitude": -0.001,
+		"soilTypes": [
+			{
+				"depth": 0,
+				"bottom": 6.5,
+				"description": "Very Stiff, Brown/Gray Moist CLAY LOAM TILL",
+				"silt": false,
+				"clay": true,
+				"loam": true,
+				"sand": false
+			},
+			{
+				"depth": 6.5,
+				"bottom": 9,
+				"description": "Very Stiff, Gray Moist SILTY CLAY LOAM",
+				"silt": true,
+				"clay": true,
+				"loam": true,
+				"sand": false
+			},
+			{
+				"depth": 9,
+				"bottom": 11.5,
+				"description": "Very Stiff, Gray Moist SILTY LOAM",
+				"silt": true,
+				"clay": false,
+				"loam": true,
+				"sand": false
+			},
+			{
+				"depth": 11.5,
+				"bottom": 19,
+				"description": "Very Stiff, Gray/Brown Moist CLAY LOAM TILL",
+				"silt": false,
+				"clay": true,
+				"loam": true,
+				"sand": false
+			},
+			{
+				"depth": 19,
+				"bottom": 49,
+				"description": "Stiff to Very Stiff, Brown Moist CLAY LOAM TILL",
+				"silt": false,
+				"clay": true,
+				"loam": true,
+				"sand": false
+			},
+			{
+				"depth": 49,
+				"bottom": 114,
+				"description": "Very Stiff to Hard, Gray Moist CLAY LOAM TILL",
+				"silt": false,
+				"clay": true,
+				"loam": true,
+				"sand": false
+			},
+			{
+				"depth": 114,
+				"bottom": 115.2,
+				"silt": false,
+				"clay": false,
+				"loam": false,
+				"sand": true,
+				"description": "Dense Gray Fine-Medium SAND"
+			},
+			{
+				"depth": 115.2,
+				"bottom": 120.5,
+				"silt": true,
+				"clay": false,
+				"loam": true,
+				"sand": false,
+				"description": "Very Stiff to Hard, Gray Moist SILTY LOAM"
+			},
+			{
+				"depth": 120.5,
+				"bottom": 125.5,
+				"silt": false,
+				"clay": true,
+				"loam": true,
+				"sand": false,
+				"description": "Very Stiff, Gray Moist CLAY LOAM TILL"
+			}
+		]
+	},
+	{
+		"uniqueId": 3,
+		"id": 14651,
+		"elevation": 818.69,
+		"latitude": -0.001,
+		"longitude": -0.001,
+		"soilTypes": [
+			{
+				"depth": 0,
+				"bottom": 4,
+				"silt": true,
+				"clay": true,
+				"loam": true,
+				"sand": false,
+				"description": "Stiff, Dk. Brown Moist SILTY CLAY LOAM"
+			},
+			{
+				"depth": 4,
+				"bottom": 9,
+				"silt": false,
+				"clay": true,
+				"loam": true,
+				"sand": false,
+				"description": "Medium Stiff, Brown/Gray Moist CLAY LOAM"
+			},
+			{
+				"depth": 9,
+				"bottom": 14,
+				"silt": false,
+				"clay": true,
+				"loam": true,
+				"sand": false,
+				"description": "Stiff to Very Stiff, Brown Moist CLAY LOAM"
+			},
+			{
+				"depth": 14,
+				"bottom": 19,
+				"silt": false,
+				"clay": true,
+				"loam": true,
+				"sand": false,
+				"description": "Stiff to Hard, Brown Moist CLAY LOAM TILL"
+			},
+			{
+				"depth": 19,
+				"bottom": 36.5,
+				"silt": false,
+				"clay": true,
+				"loam": true,
+				"sand": false,
+				"description": "Very Stiff, Gray Moist CLAY LOAM TILL"
+			},
+			{
+				"depth": 36.5,
+				"bottom": 39,
+				"silt": true,
+				"clay": false,
+				"loam": true,
+				"sand": false,
+				"description": "Very Stiff, Gray Moist SILTY LOAM"
+			},
+			{
+				"depth": 39,
+				"bottom": 46.5,
+				"silt": false,
+				"clay": true,
+				"loam": true,
+				"sand": true,
+				"description": "Stiff, Gray Moist SANDY CLAY LOAM TILL"
+			},
+			{
+				"depth": 46.5,
+				"bottom": 54.75,
+				"silt": false,
+				"clay": true,
+				"loam": true,
+				"sand": false,
+				"description": "Very Stiff, Gray Moist CLAY LOAM TILL"
+			},
+			{
+				"depth": 54.75,
+				"bottom": 59,
+				"silt": false,
+				"clay": false,
+				"loam": false,
+				"sand": true,
+				"description": "Medium Dense, Gray Medium Coarse SAND & GRAVEL"
+			},
+			{
+				"depth": 59,
+				"bottom": 75.5,
+				"silt": false,
+				"clay": true,
+				"loam": true,
+				"sand": false,
+				"description": "Very Stiff to Hard, Gray Moist CLAY LOAM TILL"
+			}
+		]
+	}
+]

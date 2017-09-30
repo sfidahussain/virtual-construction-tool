@@ -1,0 +1,170 @@
+
+
+/******************************************************************************************
+* ReadStepFile diagnostics.
+* Date:                           Tue Apr 25 00:10:34 2017
+* Produced by:                    The EXPRESS Data Manager Version 5.02.0100.07 : 28 Aug 2013
+* Module:                         EDMstepFileFactory/EDMstandAlone
+* Host:                           SanaaYoga
+* Database:                       C:\Users\SANAA\AppData\Local\Temp\{61EAEAEE-9092-44FA-A3D2-5A72921F15A0}\ifc
+* Database version:               5507
+* Database creation date:         Tue Apr 25 00:10:33 2017
+* Model to populate:              DataRepository.ifcimport
+* Header model to populate:       
+* Step file name:                 soil.ifc
+* EDMuser:                        sdai-user
+* EDMgroup:                       sdai-group
+* License ID and type:            5605 : Permanent license. Expiry date: 
+* EDMstepFileFactory options:     010201000002
+******************************************************************************************/
+
+/*     86 */ #1022= IFCCARTESIANPOINTLIST3D(((-3141.584089146362,-16.965164915184914,0
+-------------------------------------------------------------------------------------^
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+                                                                                      ),(-3141.5840891463613,-2548.392937783952,0
+--------------------------------------------------------------------------------------------------------------------------------^
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+                                                                                                                                 ),(1415.9327145360098,-3528.9920176517257,72.73900000000015),(1284.2699351646777,-4012.7529095035025,75.59900000000016),(-3141.5840891463617,-5013.752909503502,0
+*** Error in column number: 277 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(2416.93271453601,-5013.752909503502,0
+*** Error in column number: 317 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(-1591.6050529836195,6702.252332579563,0
+*** Error in column number: 359 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(-1927.7802413940528,5662.831251758629,-101.50099999999986),(2416.93271453601,6702.252332579563,0
+*** Error in column number: 458 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(1405.8114550921139,-3613.455910911124,69.5390000000001),(1385.5603227408621,-3720.956643307632,65.20900000000006),(2416.93271453601,-3691.7796272607907,0
+*** Error in column number: 614 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(1415.9327145360098,-3528.9920176517257,72.73900000000015),(1405.8114550921139,-3613.455910911124,69.5390000000001),(2416.93271453601,-3691.7796272607907,0
+*** Error in column number: 771 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(2416.93271453601,-3691.7796272607907,0
+*** Error in column number: 812 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(1385.5603227408621,-3720.956643307632,65.20900000000006),(2416.93271453601,-3859.5901257387522,0
+*** Error in column number: 911 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(1385.5603227408621,-3720.956643307632,65.20900000000006),(1345.0447188233493,-3843.81759428268,66.98900000000015),(2416.93271453601,-3859.5901257387522,0
+*** Error in column number: 1067 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(1314.66091929766,-3951.320438019719,73.62900000000013),(1284.2699351646777,-4012.7529095035025,75.59900000000016),(2416.93271453601,-4204.813145370034,0
+*** Error in column number: 1222 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(2416.93271453601,-4204.813145370034,0
+*** Error in column number: 1262 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(1284.2699351646777,-4012.7529095035025,75.59900000000016),(2416.93271453601,-4534.8539343625125,0
+*** Error in column number: 1362 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(1284.2699351646777,-4012.7529095035025,75.59900000000016),(2416.93271453601,-5013.752909503502,0
+*** Error in column number: 1461 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(2416.93271453601,-4534.8539343625125,0
+*** Error in column number: 1502 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(2416.93271453601,6702.252332579563,0
+*** Error in column number: 1541 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(-1927.7802413940528,5662.831251758629,-101.50099999999986),(2416.93271453601,2039.2256082332174,0
+*** Error in column number: 1641 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(-1927.7802413940528,5662.831251758629,-101.50099999999986),(-3141.5840891463617,3584.7961407472594,0
+*** Error in column number: 1744 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(2416.93271453601,2039.2256082332174,0
+*** Error in column number: 1784 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(-3141.584089146362,-16.965164915184914,0
+*** Error in column number: 1827 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(1415.9327145360098,-3528.9920176517257,72.73900000000015),(2416.93271453601,2039.2256082332174,0
+*** Error in column number: 1926 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(-3141.5840891463617,3584.7961407472594,0
+*** Error in column number: 1969 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(-3141.584089146362,-16.965164915184914,0
+*** Error in column number: 2012 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(2416.93271453601,2039.2256082332174,0
+*** Error in column number: 2052 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(1415.9327145360098,-3528.9920176517257,72.73900000000015),(2416.93271453601,-3691.7796272607907,0
+*** Error in column number: 2152 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(2416.93271453601,2039.2256082332174,0
+*** Error in column number: 2192 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(2416.93271453601,-3859.5901257387522,0
+*** Error in column number: 2233 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(1345.0447188233493,-3843.81759428268,66.98900000000015),(2416.9327145360103,-4129.181051771336,0
+*** Error in column number: 2332 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(1314.66091929766,-3951.320438019719,73.62900000000013),(2416.93271453601,-4204.813145370034,0
+*** Error in column number: 2428 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(2416.9327145360103,-4129.181051771336,0
+*** Error in column number: 2470 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(1345.0447188233493,-3843.81759428268,66.98900000000015),(1314.66091929766,-3951.320438019719,73.62900000000013),(2416.9327145360103,-4129.181051771336,0
+*** Error in column number: 2625 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(1284.2699351646777,-4012.7529095035025,75.59900000000016),(1345.0447188233493,-3843.81759428268,66.98900000000015),(1415.9327145360098,-3528.9920176517257,72.73900000000015),(-3141.5840891463613,-2548.392937783952,0
+*** Error in column number: 2843 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(1284.2699351646777,-4012.7529095035025,75.59900000000016),(1415.9327145360098,-3528.9920176517257,72.73900000000015),(1345.0447188233493,-3843.81759428268,66.98900000000015),(1405.8114550921139,-3613.455910911124,69.5390000000001),(1415.9327145360098,-3528.9920176517257,72.73900000000015),(1345.0447188233493,-3843.81759428268,66.98900000000015),(1385.5603227408621,-3720.956643307632,65.20900000000006),(1405.8114550921139,-3613.455910911124,69.5390000000001),(1284.2699351646777,-4012.7529095035025,75.59900000000016),(1314.66091929766,-3951.320438019719,73.62900000000013),(1345.0447188233493,-3843.81759428268,66.98900000000015),(-3141.5840891463613,-2548.392937783952,0
+*** Error in column number: 3521 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(-3141.5840891463617,-5013.752909503502,0
+*** Error in column number: 3564 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(1284.2699351646777,-4012.7529095035025,75.59900000000016),(-2140.5840891463617,5678.23994003512,-101.50099999999986),(-3141.5840891463617,3584.7961407472594,0
+*** Error in column number: 3725 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(-2049.391636553601,5632.141638526323,-109.10099999999989),(-2049.391636553601,5632.141638526323,-109.10099999999989),(-3141.5840891463617,3584.7961407472594,0
+*** Error in column number: 3886 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(-1927.7802413940528,5662.831251758629,-101.50099999999986),(-2029.1081278959546,5701.252332579563,-111.60099999999989),(-1927.7802413940528,5662.831251758629,-101.50099999999986),(-1591.6050529836195,6702.252332579563,0
+*** Error in column number: 4108 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(-2293.861485297847,6702.252332579563,0
+*** Error in column number: 4149 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(-2029.1081278959546,5701.252332579563,-111.60099999999989),(-1591.6050529836195,6702.252332579563,0
+*** Error in column number: 4251 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(-2293.861485297847,6702.252332579563,0
+*** Error in column number: 4292 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(-2140.5840891463617,5678.23994003512,-101.50099999999986),(-2029.1081278959546,5701.252332579563,-111.60099999999989),(-2029.1081278959546,5701.252332579563,-111.60099999999989),(-2049.391636553601,5632.141638526323,-109.10099999999989),(-1927.7802413940528,5662.831251758629,-101.50099999999986),(-2293.861485297847,6702.252332579563,0
+*** Error in column number: 4631 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(-3141.5840891463617,6702.252332579563,0
+*** Error in column number: 4673 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(-2140.5840891463617,5678.23994003512,-101.50099999999986),(-2140.5840891463617,5678.23994003512,-101.50099999999986),(-2049.391636553601,5632.141638526323,-109.10099999999989),(-2029.1081278959546,5701.252332579563,-111.60099999999989),(-3141.5840891463617,6702.252332579563,0
+*** Error in column number: 4952 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+),(-3141.5840891463617,3584.7961407472594,0
+*** Error in column number: 4995 ***
+*** Recoverable Error: Inconsistency: REAL expected - INTEGER found. *** on line 86.
+
+
+------------------------------------------------------------------------------------------------
+ Operation terminated with error: Error/warning during STEP File read operation.
+
+
+Fatal errors...........: 0
+Recoverable errors.....: 45
+Warnings...............: 0
+Info...................: 0
+total..................: 45
+Lines..................: 91
+
+------------------------------------------------------------------------------------------------
+

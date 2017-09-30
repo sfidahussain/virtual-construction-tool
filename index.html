@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Title of the application (appears in Window bar in Electron) -->
+    <title>Virtual Construction Tool</title>
+
+    <!-- Metadata about this application -->
+    <meta name="description" content="An application for viewing soil boring logs">
+    <meta name="keywords" content="Soil,Boring Logs,JavaScript,Electron,Node.js,jQuery">
+    <meta name="author" content="Created by Sanaa Fidahussain, Jake Gruener, Austin McKeever, Dustin Moore, and Joe Sorgea">
+
+    <!-- Include main stylesheet -->
+    <link rel="stylesheet" href="./css/style.css">
+    <link href="http://fonts.googleapis.com/css?family=Roboto|Fjalla+One|Lato" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+    <button id='btn'></button>
+    <button id='topo_btn'></button>
+    <button id='soil_btn'></button>
+    <button id='ucs_btn'></button>
+    <button id='save_btn'></button>
+
+    <!-- // SlideOut -->
+    <div id="slideOut">
+        
+        
+        <div class="top"><p id="Log ID"> Click on a Boring Log ID to Retreive Information</p></div>
+        <div class="tabs">
+            <div class="tabs-header">
+                <div class="border"></div>
+                <ul>
+                    <li class="active"><a href="#tab-1" tab-id="1" ripple="ripple" ripple-color="#FFF">Soil</a></li>
+                    <li><a href="#tab-2" tab-id="2" ripple="ripple" ripple-color="#FFF">UCS</a></li>
+                    <li><a href="#tab-3" tab-id="3" ripple="ripple" ripple-color="#FFF">Calc</a></li>
+                    <li><a href="#tab-4" tab-id="4" ripple="ripple" ripple-color="#FFF">SPT</a></li>
+                </ul>
+            </div>
+            <div class="tabs-content">
+                <div class="tab active" tab-id="1">
+                    <p id="Latitude"</p>
+                    <p id="Longitude"</p>
+                    <p id="Elevation"</p>
+                    <p id="Total Log Depth"></p>
+                    <p id="Log Information"</p> <!-- This is the element that holds all of the individual soil information for each log. -->
+                </div>
+                <div class="tab" tab-id="2">
+                    <p id="Latitude_UCS"</p>
+                    <p id="Longitude_UCS"</p>
+                    <p id="Elevation_UCS"</p>
+                    <p id="Total Log Depth_UCS"></p>
+                    <p id="Log Information_UCS"</p> <!-- This is the element that holds all of the individual soil information for each log. -->
+                </div>
+                <div class="tab" tab-id="3"></div>
+                <div class="tab" tab-id="4"></div>
+            </div>
+        </div>
+        
+    </div>
+      <!--  <button id='soil_btn'>Soil View</button> -->
+    <div id="map_canvas" style="width:100%; height:800px"></div>
+    <input id="scaleSlider" type="range" min="1" max="25" value="10" style="position: absolute; left: 10px; bottom: 10px;"/>
+
+    
+    <!--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCII_530pWLEpYcl7IymE-UB1AvCRjozf0">
+    </script>-->
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDZJdedfTGXbwA1ustvsZKWriZVsoWT--o">
+    </script>
+    <script src = "https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
+    <script>
+    require('./renderer.js'); // electron's renderer process, lets us use native controls like dialog boxes
+    require('./js/app.js');
+    </script>
+</body>
+</html>

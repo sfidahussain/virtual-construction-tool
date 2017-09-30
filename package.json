@@ -1,0 +1,33 @@
+{
+  "name": "virtual-construction-tool",
+  "version": "1.0.0",
+  "description": "An application for viewing soil boring logs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/srogee/Virtual-Construction-Tool",
+  "keywords": [
+    "Electron",
+    "BIM",
+    "GeoBIM"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "*"
+  },
+  "dependencies": {
+    "delaunay-fast": "^1.0.1",
+    "jquery": "^3.1.1",
+    "mysql": "^2.13.0",
+    "node-xlsx": "^0.7.4",
+    "parse-dms": "0.0.3",
+    "stats.js": "^0.17.0",
+    "three": "^0.82.1",
+    "three-js-csg": "^72.0.0",
+    "three-orbit-controls": "^82.1.0",
+    "voronoi": "^1.0.0",
+    "xml-writer": "^1.7.0"
+  }
+}

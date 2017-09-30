@@ -1,0 +1,5 @@
+/* proxy element assigned to the building ------------------------------------------------------ */
+#10000=IFCRELCONTAINEDINSPATIALSTRUCTURE('2TnxZkTXT08eDuMuhUUFNy',$,'Physical model',$,(#1000),#500);
+
+ENDSEC;
+END-ISO-10303-21;

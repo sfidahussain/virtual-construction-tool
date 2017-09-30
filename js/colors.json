@@ -1,0 +1,17 @@
+{
+    
+    "silt": "#741b4c", 
+    "clay": "#00d0c7", 
+    "sand": "#f2ab28",
+    "loam": "#f34b45", 
+    "siltclay": "#297d95", 
+    "clayloam": "#b0c64a", 
+    "sandloam": "#5bc07a", 
+    "siltsand": "#c4efda", 
+    "claysand": "#196f6e", 
+    "siltclayloam": "#83d3f6", 
+    "claysandloam": "#1ebce1",
+    "siltsandloam": "#f1e9c2", 
+    "siltclaysand": "#ccb1e5", 
+    "siltclaysandloam": "#825430" 
+}

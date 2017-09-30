@@ -1,0 +1,13 @@
+{
+    "showStats": false,
+    "showVersions": false,
+    "showDevTools": true,
+    "voronoi": true,
+    "voronoiCSG": true,
+    "circleOfInfluenceRadius": 1000,
+    "circleOfInfluenceSteps": 32,
+    "databaseHost" : "localhost",
+    "databaseUser" : "root",
+    "databasePassword" : "test",
+    "databaseName" : "boringlogs"
+}

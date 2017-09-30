@@ -1,0 +1,5 @@
+1. install visual studio code (OR another source code text editor)
+2. install node.js 6.9.4
+3. download repository zip and extract it (OR make github account, install github desktop, and clone repository)
+4. run Update Packages (OR cmd->npm install)
+5. run Start Application (OR cmd->npm start)
